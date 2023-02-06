@@ -367,6 +367,12 @@ export const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
+  glisovic01: {
+    title_color: "fff",
+    icon_color: "9f9f9f",
+    text_color: "9f9f9f",
+    bg_color: "0d1117",
+  },
   date_night: {
     title_color: "DA7885",
     text_color: "E1B2A2",
