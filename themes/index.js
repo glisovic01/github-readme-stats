@@ -374,6 +374,12 @@ export const themes = {
     border_color: "170F0C",
     bg_color: "170F0C",
   },
+  glisovic01: {
+    title_color: "fff",
+    icon_color: "9f9f9f",
+    text_color: "9f9f9f",
+    bg_color: "ffffff00",
+  }
 };
 
 export default themes;
